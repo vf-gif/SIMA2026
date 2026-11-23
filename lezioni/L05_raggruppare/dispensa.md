@@ -115,6 +115,7 @@ Le soluzioni sono disponibili dopo la lezione, ma leggerle prima ti toglie l'uni
 
 ## Compito a casa
 
+- Gli esercizi D1–D4 sui grafici, in fondo al notebook del task (~30 min)
 - [Kaggle Learn – Pandas](https://www.kaggle.com/learn/pandas), lezione **Grouping and Sorting** (~20 min)
 
 ## Per approfondire
